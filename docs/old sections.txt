@@ -1,0 +1,134 @@
+<!-- <section class="home" id="home">
+        <div class="home-content">
+            <h3>Hello, It's Me</h3>
+            <h1>Abdelrahman Essam</h1>
+            <h3>I'm a a <span class="multiple-text "> </span></h3>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                aspernatur placeat
+                architecto amet laudantium id.</p>
+            <div class="social-media">
+                <a href="#"><i class='bx bxl-facebook'></i></a>
+                <a href="#"><i class='bx bxl-linkedin-square'></i></a>
+                <a href="#"><i class='bx bxl-github'></i></a>
+            </div>
+            <a href="#" class="btn">Download CV</a>
+        </div>
+
+        <div class="home-img">
+            <img src="images/homee.png" alt="">
+        </div>
+
+    </section> -->
+
+
+
+    <!-- about section -->
+    <!-- <section class="about" id="about">
+        <div class="about-img">
+            <img src="images/aboutt.png" alt="">
+        </div>
+
+        <div class="about-content">
+            <h2 class="heading">About <span>Me</span></h2>
+            <h3>Frontend Developer</h3>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempore officia
+                asperiores labore officiis
+                suscipit ex at non impedit nostrum animi illum mollitia i taque reprehenderit
+                laudantium molestiae eum
+                porro molestias repudiandae, amet ea eos alias corporis laborum nobis. Tempore
+                deserunt repellendus quos
+                nihil voluptas aut est suscipit.</p>
+            <a href="#" class="btn">Read More </a>
+        </div>
+
+    </section> -->
+
+
+    <!-- services section -->
+    <!-- <section class="services" id="services">
+        <h2 class="heading">our <span>Services</span></h2>
+
+        <div class="services-container">
+            <div class="services-box">
+                <i class='bx bx-code-alt'></i>
+                <h3>Web Development</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                    vitae magni aut commodi
+                    non laborum nisi alias iusto voluptatibus.</p>
+                <a href="#" class="btn">Read More</a>
+            </div>
+
+            <div class="services-box">
+                <i class='bx bx-code-alt'></i>
+                <h3>Web Development</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                    vitae magni aut commodi
+                    non laborum nisi alias iusto voluptatibus.</p>
+                <a href="#" class="btn">Read More</a>
+            </div>
+
+            <div class="services-box">
+                <i class='bx bx-code-alt'></i>
+                <h3>Web Development</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                    vitae magni aut commodi
+                    non laborum nisi alias iusto voluptatibus.</p>
+                <a href="#" class="btn">Read More</a>
+            </div>
+        </div>
+    </section> -->
+    <!-- services section -->
+    <!-- <section class="services" id="services">
+        <h2 class="heading">our <span>Services</span></h2>
+
+        <div class="services-container">
+            <div class="services-box">
+                <i class='bx bx-code-alt'></i>
+                <h3>Web Development</h3>
+                <p>From static websites to dynamic web applications, we can help you bring your vision to life on the
+                    web.</p>
+                <a href="#" class="btn">Read More</a>
+            </div>
+            
+
+            <div class="services-box">
+                <i class='bx bx-shopping-bag'></i>
+                <h3>E-commerce Solutions</h3>
+                <p>We can help you design and develop an online store that is tailored to your business needs and helps
+                    you sell more products.</p>
+                <a href="#" class="btn">Read More</a>
+            </div>
+
+            <div class="services-box">
+                <i class='bx bx-code'></i>
+                <h3>Software Development</h3>
+                <p>If you need a custom software solution to manage your business operations or solve a specific
+                    problem, we can help.</p>
+                <a href="#" class="btn">Read More</a>
+            </div>
+
+            <div class="services-box">
+                <i class='bx bxs-data'></i>
+                <h3>Database Design</h3>
+                <p>We can help you design, develop, and maintain a database that is optimized for your specific business
+                    needs.</p>
+                <a href="#" class="btn">Read More</a>
+            </div>
+
+            <div class="services-box">
+                <i class='bx bx-task'></i>
+                <h3>Project Management</h3>
+                <p>We can help you manage your software development projects, so that youcan achieve your business goals
+                    on time and within budget.</p>
+                <a href="#" class="btn">Read More</a>
+            </div>
+
+            <div class="services-box">
+                <i class='bx bx-film'></i>
+                <h3>Animation</h3>
+                <p>We can help you create stunning animated videos and graphics thatwill captivate your audience and help your brand stand out.</p>
+                <a href="#" class="btn">Read More</a>
+            </div>
+
+        </div>
+    </section> -->
