@@ -44,6 +44,7 @@ section {
     justify-content: space-between;
     align-items: center;
     z-index: 100;
+    
 }
 
 .header.sticky {
@@ -188,7 +189,7 @@ span {
 }
 
 .about-content h2 {
-    text-align: left;
+    /* text-align: left; */
     line-height: 1.2;
 }
 
@@ -394,6 +395,48 @@ span {
 .footer-iconTop a i {
     font-size: 2.4rem;
     color: var(--second-bg-color);
+}
+
+/* neeeeeew */
+.container {
+    max-width: 100%; /* Changed from 1200px to 100% to make it full width */
+    margin: 8rem auto 0; /* Added margin-top for spacing */
+    padding: 0 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home, .about {
+    width: 87%; /* Added width to make it full width */
+    min-height: 34vh; /* Reduced from 100vh to 34vh (approximately 66% less) */
+    padding: 5rem;
+    background: var(--second-bg-color);
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0; /* Added margin for spacing */
+}
+
+.home-content, .about-content {
+    text-align: center;
+}
+
+.home h3, .home h1, .home p, .about h3, .about h1, .about p {
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+.social-media a {
+    margin: 0 10px;
+}
+
+.about-content {
+    text-align: center;
+    margin: 0 auto; /* Center the content horizontally */
+    max-width: 800px; /* Set a maximum width for better readability */
 }
 
 /* breakpoints */
